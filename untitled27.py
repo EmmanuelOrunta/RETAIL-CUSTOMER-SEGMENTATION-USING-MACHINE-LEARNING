@@ -19,9 +19,7 @@ aus_df = pd.read_csv("australian_retail.csv")
 
 df = df.dropna(subset=['CustomerID'])  # Remove missing customers
 df = df[df['Quantity'] > 0]            # Remove returns/negative sales
-
 # Convert date
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
-
 # Create revenue column
 df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
