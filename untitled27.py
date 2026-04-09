@@ -14,7 +14,7 @@ df = pd.read_csv("online_retail.csv", encoding='ISO-8859-1')
 # Dataset 2: Australian Retail (Context dataset)
 aus_df = pd.read_csv("australian_retail.csv")
 
-# ================================
+
 # STEP 3: CLEAN ONLINE RETAIL DATA
 # ================================
 df = df.dropna(subset=['CustomerID'])  # Remove missing customers
