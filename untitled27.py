@@ -15,7 +15,7 @@ df = pd.read_csv("online_retail.csv", encoding='ISO-8859-1')
 aus_df = pd.read_csv("australian_retail.csv")
 
 
-# STEP 3: DATA CLEANING OF ONLINE RETAIL DATA
+# DATA CLEANING OF ONLINE RETAIL DATA
 
 df = df.dropna(subset=['CustomerID'])  # Remove missing customers
 df = df[df['Quantity'] > 0]            # Remove returns/negative sales
