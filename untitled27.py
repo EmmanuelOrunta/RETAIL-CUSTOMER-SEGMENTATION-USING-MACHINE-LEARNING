@@ -24,7 +24,6 @@ df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 # Create revenue column
 df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
 
-# ================================
 # STEP 4: CREATE RFM FEATURES
 # ================================
 reference_date = df['InvoiceDate'].max()
