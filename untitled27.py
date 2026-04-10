@@ -25,7 +25,6 @@ df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
 
 # CREATE RFM FEATURES
-# ================================
 reference_date = df['InvoiceDate'].max()
 
 rfm = df.groupby('CustomerID').agg({
