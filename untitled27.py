@@ -22,15 +22,15 @@ df = df[df['Quantity'] > 0]            # Remove returns/negative sales
 # Convert date
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 # Create revenue column
-df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
+df['TotalPrice'] = df['Quantity'] * df['UnitPrice'] #Monetary 
 
 # CREATE RFM FEATURES
 reference_date = df['InvoiceDate'].max()
 
 rfm = df.groupby('CustomerID').agg({
-    'InvoiceDate': lambda x: (reference_date - x.max()).days,
-    'InvoiceNo': 'count',
-    'TotalPrice': 'sum'
+    'InvoiceDate': lambda x: (reference_date - x.max()).days, # Re
+    'InvoiceNo': 'count', # Frequency
+    'TotalPrice': 'sum' 
 })
 
 rfm.columns = ['Recency', 'Frequency', 'Monetary']
