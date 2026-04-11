@@ -22,7 +22,7 @@ df = df[df['Quantity'] > 0]            # Remove returns/negative sales
 # Convert date
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 # Create revenue column
-df['TotalPrice'] = df['Quantity'] * df['UnitPrice'] #Monetary 
+df['TotalPrice'] = df['Quantity'] * df['UnitPrice'] # Monetary 
 
 # CREATE RFM FEATURES
 reference_date = df['InvoiceDate'].max()
