@@ -28,7 +28,7 @@ df['TotalPrice'] = df['Quantity'] * df['UnitPrice'] #Monetary
 reference_date = df['InvoiceDate'].max()
 
 rfm = df.groupby('CustomerID').agg({
-    'InvoiceDate': lambda x: (reference_date - x.max()).days, # Re
+    'InvoiceDate': lambda x: (reference_date - x.max()).days, # Recency
     'InvoiceNo': 'count', # Frequency
     'TotalPrice': 'sum' 
 })
