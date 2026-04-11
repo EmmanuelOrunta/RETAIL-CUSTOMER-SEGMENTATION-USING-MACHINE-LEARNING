@@ -37,4 +37,4 @@ rfm.columns = ['Recency', 'Frequency', 'Monetary']
 
 # SCALE FEATURES
 scaler = StandardScaler()
-rfm_scaled = scaler.fit_transform(rfm)
+rfm_scaled = scaler.fit_transform(rfm) # It puts all variables on the same level
