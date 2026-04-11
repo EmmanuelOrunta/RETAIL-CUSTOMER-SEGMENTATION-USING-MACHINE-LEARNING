@@ -34,3 +34,8 @@ rfm = df.groupby('CustomerID').agg({
 })
 
 rfm.columns = ['Recency', 'Frequency', 'Monetary']
+
+# STEP 5: SCALE FEATURES
+# ================================
+scaler = StandardScaler()
+rfm_scaled = scaler.fit_transform(rfm)
