@@ -40,7 +40,7 @@ scaler = StandardScaler()
 rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same level
 
 
-# ELBOW METHOD
+# ELBOW METHOD - a method of choosing clusters
 
 inertia = [] # how tight the clusters are
 
