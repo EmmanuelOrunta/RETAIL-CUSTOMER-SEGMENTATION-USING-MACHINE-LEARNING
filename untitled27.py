@@ -42,7 +42,7 @@ rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same l
 
 # ELBOW METHOD
 
-inertia = []
+inertia = [] # how tight the clusters are
 
 for k in range(1, 10):
     kmeans = KMeans(n_clusters=k, random_state=42)
