@@ -39,7 +39,7 @@ rfm.columns = ['Recency', 'Frequency', 'Monetary']
 scaler = StandardScaler()
 rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same level
 
-# ================================
+
 # STEP 6: ELBOW METHOD
 # ================================
 inertia = []
