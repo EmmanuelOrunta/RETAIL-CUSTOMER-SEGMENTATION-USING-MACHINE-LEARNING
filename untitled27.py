@@ -41,7 +41,7 @@ rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same l
 
 
 # STEP 6: ELBOW METHOD
-# ================================
+
 inertia = []
 
 for k in range(1, 10):
