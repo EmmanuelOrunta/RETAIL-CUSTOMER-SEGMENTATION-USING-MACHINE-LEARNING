@@ -38,3 +38,20 @@ rfm.columns = ['Recency', 'Frequency', 'Monetary']
 # SCALE FEATURES
 scaler = StandardScaler()
 rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same level
+
+# ================================
+# STEP 6: ELBOW METHOD
+# ================================
+inertia = []
+
+for k in range(1, 10):
+    kmeans = KMeans(n_clusters=k, random_state=42)
+    kmeans.fit(rfm_scaled)
+    inertia.append(kmeans.inertia_)
+
+plt.figure()
+plt.plot(range(1, 10), inertia)
+plt.title("Elbow Method")
+plt.xlabel("Number of Clusters")
+plt.ylabel("Inertia")
+plt.show()
