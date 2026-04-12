@@ -40,7 +40,7 @@ scaler = StandardScaler()
 rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same level
 
 
-# STEP 6: ELBOW METHOD
+# ELBOW METHOD
 
 inertia = []
 
