@@ -56,7 +56,7 @@ plt.xlabel("Number of Clusters")
 plt.ylabel("Inertia")
 plt.show()
 
-# STEP 7: APPLY K-MEANS
+# APPLY K-MEANS
 # ================================
 kmeans = KMeans(n_clusters=4, random_state=42)
 rfm['Cluster'] = kmeans.fit_predict(rfm_scaled)
