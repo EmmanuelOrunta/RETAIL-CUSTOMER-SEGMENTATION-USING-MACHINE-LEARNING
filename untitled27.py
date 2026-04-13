@@ -57,7 +57,7 @@ plt.ylabel("Inertia")
 plt.show()
 
 # APPLY K-MEANS
-# ================================
+
 kmeans = KMeans(n_clusters=4, random_state=42)
 rfm['Cluster'] = kmeans.fit_predict(rfm_scaled)
 
