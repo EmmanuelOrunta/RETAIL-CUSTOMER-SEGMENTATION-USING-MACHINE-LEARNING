@@ -73,5 +73,5 @@ def label_cluster(row):
         return 'Loyal'
     else:
         return 'Low Value'
-
+rfm['Segment'] = rfm.apply(label_cluster, axis=1)
 
