@@ -62,7 +62,7 @@ kmeans = KMeans(n_clusters=4, random_state=42)
 rfm['Cluster'] = kmeans.fit_predict(rfm_scaled)
 
 
-# STEP 8: LABEL SEGMENTS
+# LABEL SEGMENTS
 def label_cluster(row):
     if row['Cluster'] == 0:
         return 'High Value'
