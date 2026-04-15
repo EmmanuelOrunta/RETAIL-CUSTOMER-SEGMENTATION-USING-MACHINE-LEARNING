@@ -78,6 +78,10 @@ rfm['Segment'] = rfm.apply(label_cluster, axis=1)
 # CLUSTER SUMMARY
 
 cluster_summary = rfm.groupby('Segment').mean() # Shows average behaviour per segment
+# Example insight:
+# High Value → high money, high frequency
+# At Risk → high recency (haven’t bought recently)
+
 print("\nCustomer Segment Summary:")
 print(cluster_summary)
 
