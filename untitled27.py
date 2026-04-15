@@ -76,7 +76,7 @@ rfm['Segment'] = rfm.apply(label_cluster, axis=1)
 
 
 # STEP 9: CLUSTER SUMMARY
-# ================================
+
 cluster_summary = rfm.groupby('Segment').mean()
 print("\nCustomer Segment Summary:")
 print(cluster_summary)
