@@ -56,9 +56,9 @@ plt.xlabel("Number of Clusters")
 plt.ylabel("Inertia")
 plt.show()
 
-# APPLY K-MEANS - A clustering method used for grouping things in similar clusters
-# Applying K-means method with 4 clusters
-kmeans = KMeans(n_clusters=4, random_state=42)
+# APPLY K-MEANS - A method used for grouping things in similar clusters
+
+kmeans = KMeans(n_clusters=4, random_state=42) # 4 clusters
 rfm['Cluster'] = kmeans.fit_predict(rfm_scaled)
 
 
