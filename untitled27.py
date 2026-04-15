@@ -74,7 +74,7 @@ def label_cluster(row):
         return 'Low Value'
 rfm['Segment'] = rfm.apply(label_cluster, axis=1)
 
-# ================================
+
 # STEP 9: CLUSTER SUMMARY
 # ================================
 cluster_summary = rfm.groupby('Segment').mean()
