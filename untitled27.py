@@ -86,7 +86,7 @@ print("\nCustomer Segment Summary:")
 print(cluster_summary)
 
 
-# STEP 10: AUSTRALIAN DATA ANALYSIS (CONTEXT)
+# AUSTRALIAN DATA ANALYSIS (CONTEXT)
 
 # Convert date if exists
 if 'Date' in aus_df.columns:
