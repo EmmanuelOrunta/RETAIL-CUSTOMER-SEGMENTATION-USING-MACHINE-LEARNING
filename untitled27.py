@@ -87,7 +87,7 @@ print(cluster_summary)
 
 # ================================
 # STEP 10: AUSTRALIAN DATA ANALYSIS (CONTEXT)
-# ================================
+
 # Convert date if exists
 if 'Date' in aus_df.columns:
     aus_df['Date'] = pd.to_datetime(aus_df['Date'])
