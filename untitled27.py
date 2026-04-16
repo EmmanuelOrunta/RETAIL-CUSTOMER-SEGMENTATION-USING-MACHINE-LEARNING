@@ -85,4 +85,22 @@ cluster_summary = rfm.groupby('Segment').mean() # Shows average behaviour per se
 print("\nCustomer Segment Summary:")
 print(cluster_summary)
 
+# ================================
+# STEP 10: AUSTRALIAN DATA ANALYSIS (CONTEXT)
+# ================================
+# Convert date if exists
+if 'Date' in aus_df.columns:
+    aus_df['Date'] = pd.to_datetime(aus_df['Date'])
+
+# Example: Monthly sales trend
+if 'Sales' in aus_df.columns:
+    monthly_sales = aus_df.groupby(aus_df['Date'].dt.to_period('M'))['Sales'].sum()
+    
+    plt.figure()
+    monthly_sales.plot()
+    plt.title("Australian Retail Monthly Sales Trend")
+    plt.xlabel("Month")
+    plt.ylabel("Sales")
+    plt.show()
+
 
