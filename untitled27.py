@@ -85,7 +85,7 @@ cluster_summary = rfm.groupby('Segment').mean() # Shows average behaviour per se
 print("\nCustomer Segment Summary:")
 print(cluster_summary)
 
-# ================================
+
 # STEP 10: AUSTRALIAN DATA ANALYSIS (CONTEXT)
 
 # Convert date if exists
