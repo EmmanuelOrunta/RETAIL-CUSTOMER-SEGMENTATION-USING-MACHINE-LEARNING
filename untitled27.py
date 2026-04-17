@@ -103,7 +103,7 @@ if 'Sales' in aus_df.columns:
     plt.ylabel("Sales")
     plt.show()
 
-# STEP 11: MERGE INSIGHTS (SIMULATION)
+# MERGE INSIGHTS (SIMULATION)
 
 # Add a simulated "Region" to customers to align with Australian context
 regions = ['NSW', 'VIC', 'QLD', 'WA']
