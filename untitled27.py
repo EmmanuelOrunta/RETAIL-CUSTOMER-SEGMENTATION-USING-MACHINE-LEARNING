@@ -109,5 +109,9 @@ if 'Sales' in aus_df.columns:
 # Add a simulated "Region" to customers to align with Australian context
 regions = ['NSW', 'VIC', 'QLD', 'WA']
 rfm['Region'] = np.random.choice(regions, size=len(rfm))
+# Analyze segments by region
+region_analysis = rfm.groupby(['Region', 'Segment']).size().unstack()
+print("\nSegment Distribution by Region:")
+print(region_analysis)
 
 
