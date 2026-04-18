@@ -1,7 +1,7 @@
 
 # RETAIL CUSTOMER SEGMENTATION USING MACHINE LEARNING (HYBRID DATA APPROACH)
 
-#  IMPORT LIBRARIES
+# IMPORT LIBRARIES
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -104,7 +104,6 @@ if 'Sales' in aus_df.columns:
     plt.show()
 
 # MERGE INSIGHTS (SIMULATION)
-
 # Add a simulated "Region" to customers to align with Australian context
 regions = ['NSW', 'VIC', 'QLD', 'WA']
 rfm['Region'] = np.random.choice(regions, size=len(rfm))
