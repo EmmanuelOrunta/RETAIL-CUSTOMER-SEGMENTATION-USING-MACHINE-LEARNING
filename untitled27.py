@@ -114,7 +114,6 @@ print("\nSegment Distribution by Region:")
 print(region_analysis)
 
 # STEP 12: EXPORT RESULTS
-# ================================
 rfm.to_csv("customer_segments_hybrid.csv")
 
 print("\nProject Completed Successfully!")
