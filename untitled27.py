@@ -30,7 +30,7 @@ Recency → How recently did they buy?
 Frequency → How often do they buy?
 Monetary → How much do they spend?
 
-reference_date = df['InvoiceDate'].max()
+reference_date = df['InvoiceDate'].max() # Latest/Most Recent date in the dataset
 
 rfm = df.groupby('CustomerID').agg({
     'InvoiceDate': lambda x: (reference_date - x.max()).days, # Recency
