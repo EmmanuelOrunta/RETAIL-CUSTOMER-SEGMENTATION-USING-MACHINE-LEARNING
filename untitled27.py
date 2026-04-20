@@ -18,7 +18,7 @@ aus_df = pd.read_csv("australian_retail.csv")
 # DATA CLEANING OF ONLINE RETAIL DATA
 
 df = df.dropna(subset=['CustomerID'])  # We removing IDs because we can group people we can't identify, so no need for IDs
-df = df[df['Quantity'] > 0]            # Remove returns/negative sales
+df = df[df['Quantity'] > 0]            # Remove returns/negative sales because this means the customer returned the items
 # Convert date
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 # Create revenue column
