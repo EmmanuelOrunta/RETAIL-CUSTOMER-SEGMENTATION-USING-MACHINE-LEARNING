@@ -33,7 +33,7 @@ Monetary → How much do they spend?
 reference_date = df['InvoiceDate'].max() # Latest/Most Recent date in the dataset
 
 rfm = df.groupby('CustomerID').agg({
-    'InvoiceDate': lambda x: (reference_date - x.max()).days, # Recency
+    'InvoiceDate': lambda x: (reference_date - x.max()).days, # Recency - How many days since last purchase?”... Small number → recent customer.... Large number → inactive customer
     'InvoiceNo': 'count', # Frequency
     'TotalPrice': 'sum' 
 })
