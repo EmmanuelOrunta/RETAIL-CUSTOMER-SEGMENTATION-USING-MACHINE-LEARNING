@@ -26,7 +26,6 @@ df['TotalPrice'] = df['Quantity'] * df['UnitPrice'] # Monetary
 
 # CREATE RFM FEATURES
 RFM =
-
 Recency → How recently did they buy?
 Frequency → How often do they buy?
 Monetary → How much do they spend?
