@@ -41,6 +41,8 @@ rfm = df.groupby('CustomerID').agg({
 rfm.columns = ['Recency', 'Frequency', 'Monetary']
 
 # SCALE FEATURES
+
+# This is done to make sure that each of the features are the same scale level for proper evaluation..
 scaler = StandardScaler()
 rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same level
 
