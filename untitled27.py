@@ -42,7 +42,7 @@ rfm.columns = ['Recency', 'Frequency', 'Monetary']
 
 # SCALE FEATURES
 
-# This is done to make sure that each of the features are the same scale level for proper evaluation..
+# This is done to make sure that each of the features are the same scale level for proper evaluation.. This is to make sure one feature doesn't dominate the others in the clustering due to its size
 scaler = StandardScaler()
 rfm_scaled = scaler.fit_transform(rfm) # It puts all rfm variables on the same level
 
