@@ -67,7 +67,7 @@ plt.show()
 # APPLY K-MEANS - An algorithm used for grouping things in similar clusters
 
 kmeans = KMeans(n_clusters=4, random_state=42) # 4 clusters
-rfm['Cluster'] = kmeans.fit_predict(rfm_scaled)
+rfm['Cluster'] = kmeans.fit_predict(rfm_scaled) # assign clusters to the rfm variables
 
 
 # LABEL SEGMENTS
