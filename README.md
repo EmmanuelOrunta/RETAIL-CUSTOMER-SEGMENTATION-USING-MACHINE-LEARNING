@@ -8,4 +8,8 @@ Using a combination of **customer transaction data** and **Australian retail tre
 - High-value customers 💰  
 - Loyal customers 🔁  
 - At-risk customers ⚠️  
-- Low-value customers 📉 
+- Low-value customers 📉
+
+This project simulates a real-world scenario where businesses use data to personalise customer experiences and improve revenue.
+
+---  
