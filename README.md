@@ -1,1 +1,3 @@
-# RETAIL CUSTOMER SEGMENTATION USING MACHINE LEARNING
+# 🛍️ Retail Customer Segmentation (Australian Market)
+
+## 📌 Project Overview
