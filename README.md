@@ -5,3 +5,7 @@
 This project focuses on segmenting retail customers into meaningful groups based on their purchasing behaviour. The goal is to help businesses better understand their customers and make smarter marketing and business decisions.
 Using a combination of **customer transaction data** and **Australian retail trends**, this project applies **machine learning techniques** to identify key customer segments such as:
 
+- High-value customers 💰  
+- Loyal customers 🔁  
+- At-risk customers ⚠️  
+- Low-value customers 📉 
