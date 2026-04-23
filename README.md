@@ -16,4 +16,5 @@ This project simulates a real-world scenario where businesses use data to person
 ## 🎯 Business Problem
 
 Retail businesses often struggle to answer questions like:
-- Who are my most valuable customers?  
+- Who are my most valuable customers?
+- Which customers are likely to stop buying? 
