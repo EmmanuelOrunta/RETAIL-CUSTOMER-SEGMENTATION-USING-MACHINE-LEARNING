@@ -17,4 +17,5 @@ This project simulates a real-world scenario where businesses use data to person
 
 Retail businesses often struggle to answer questions like:
 - Who are my most valuable customers?
-- Which customers are likely to stop buying? 
+- Which customers are likely to stop buying?
+- How can I target different customers effectively? 
