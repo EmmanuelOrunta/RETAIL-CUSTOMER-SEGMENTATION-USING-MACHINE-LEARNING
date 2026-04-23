@@ -13,3 +13,6 @@ Using a combination of **customer transaction data** and **Australian retail tre
 This project simulates a real-world scenario where businesses use data to personalise customer experiences and improve revenue.
 
 ---  
+## 🎯 Business Problem
+
+Retail businesses often struggle to answer questions like:
