@@ -54,7 +54,7 @@ inertia = [] # how tight the clusters are
 for k in range(1, 10):
     kmeans = KMeans(n_clusters=k, random_state=42)
     kmeans.fit(rfm_scaled)
-    inertia.append(kmeans.inertia_)
+    inertia.append(kmeans.inertia_) # inertia measures how tight the clusters are
 
 plt.figure()
 plt.plot(range(1, 10), inertia)
