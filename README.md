@@ -23,3 +23,6 @@ Retail businesses often struggle to answer questions like:
 This project solves these problems by grouping customers into segments based on their behaviour.
 
 ---
+## 📊 Datasets Used (Hybrid Approach)
+
+This project uses two datasets to simulate a realistic business environment:
