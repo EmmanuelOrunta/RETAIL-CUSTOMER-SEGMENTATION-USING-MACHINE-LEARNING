@@ -21,3 +21,6 @@ Retail businesses often struggle to answer questions like:
 - How can I target different customers effectively?
 
 
+This project solves these problems by grouping customers into segments based on their behaviour.
+
+---
