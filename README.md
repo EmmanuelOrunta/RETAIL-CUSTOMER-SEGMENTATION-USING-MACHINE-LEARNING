@@ -20,7 +20,6 @@ Retail businesses often struggle to answer questions like:
 - Which customers are likely to stop buying?
 - How can I target different customers effectively?
 
-
 This project solves these problems by grouping customers into segments based on their behaviour.
 
 ---
