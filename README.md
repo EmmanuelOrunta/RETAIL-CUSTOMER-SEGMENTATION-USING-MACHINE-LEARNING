@@ -29,3 +29,9 @@ This project uses two datasets to simulate a realistic business environment:
 ---
 
 ### 🟢 1. Online Retail Dataset (Primary Dataset)
+- Source: Kaggle  
+- Contains detailed transactional data including:
+  - Customer ID  
+  - Purchase history  
+  - Quantity and price  
+  - Transaction dates 
