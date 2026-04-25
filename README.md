@@ -26,3 +26,6 @@ This project solves these problems by grouping customers into segments based on 
 ## 📊 Datasets Used (Hybrid Approach)
 
 This project uses two datasets to simulate a realistic business environment:
+---
+
+### 🟢 1. Online Retail Dataset (Primary Dataset)
