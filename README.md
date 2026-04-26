@@ -42,3 +42,4 @@ This project uses two datasets to simulate a realistic business environment:
 - Machine learning (clustering)  
 
 ---
+### 🟡 2. Australian Retail Dataset (Context Dataset)
