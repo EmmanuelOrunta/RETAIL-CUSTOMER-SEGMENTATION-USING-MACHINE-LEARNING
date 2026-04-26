@@ -40,3 +40,5 @@ This project uses two datasets to simulate a realistic business environment:
 - Customer behaviour analysis  
 - RFM feature creation  
 - Machine learning (clustering)  
+
+---
