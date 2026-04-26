@@ -37,3 +37,6 @@ This project uses two datasets to simulate a realistic business environment:
   - Transaction dates
 
 👉 This dataset is used for:  
+- Customer behaviour analysis  
+- RFM feature creation  
+- Machine learning (clustering)  
