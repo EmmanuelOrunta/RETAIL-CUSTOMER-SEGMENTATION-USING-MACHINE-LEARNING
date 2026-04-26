@@ -35,4 +35,5 @@ This project uses two datasets to simulate a realistic business environment:
   - Purchase history  
   - Quantity and price  
   - Transaction dates
-  
+
+👉 This dataset is used for:  
