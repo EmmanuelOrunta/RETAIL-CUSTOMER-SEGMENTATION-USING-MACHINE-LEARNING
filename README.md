@@ -43,3 +43,4 @@ This project uses two datasets to simulate a realistic business environment:
 
 ---
 ### 🟡 2. Australian Retail Dataset (Context Dataset)
+- Source: Kaggle 
