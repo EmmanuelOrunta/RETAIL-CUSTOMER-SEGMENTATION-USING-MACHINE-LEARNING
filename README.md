@@ -48,4 +48,4 @@ This project uses two datasets to simulate a realistic business environment:
 
 👉 This dataset is used for:
 - Understanding market trends
-- - Adding local Australian business context 
+- Adding local Australian business context 
