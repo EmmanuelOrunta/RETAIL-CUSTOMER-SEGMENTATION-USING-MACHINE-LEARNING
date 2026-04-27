@@ -48,3 +48,4 @@ This project uses two datasets to simulate a realistic business environment:
 
 👉 This dataset is used for:
 - Understanding market trends
+- Understanding market trends
