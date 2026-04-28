@@ -54,3 +54,4 @@ This project uses two datasets to simulate a realistic business environment:
 
 ---
 ## 🧠 Key Concepts Used
+RFM stands for:
