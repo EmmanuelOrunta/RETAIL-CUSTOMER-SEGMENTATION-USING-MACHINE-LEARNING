@@ -52,3 +52,4 @@ This project uses two datasets to simulate a realistic business environment:
 - Supporting storytelling and insights
 
 ---
+## 🧠 Key Concepts Used
