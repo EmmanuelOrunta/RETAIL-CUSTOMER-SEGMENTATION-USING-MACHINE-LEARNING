@@ -57,4 +57,4 @@ This project uses two datasets to simulate a realistic business environment:
 RFM stands for:
 - **Recency (R)** → How recently a customer made a purchase
 - **Frequency (F)** → How often they purchase
-- - **Monetary (M)** → How much money they spend 
+- **Monetary (M)** → How much money they spend 
