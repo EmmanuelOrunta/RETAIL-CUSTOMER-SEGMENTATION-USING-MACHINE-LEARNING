@@ -67,3 +67,4 @@ RFM stands for:
 Feature scaling ensures all variables contribute equally to the model.
 
 Without scaling:
+- Large values (e.g., monetary) dominate the model 
