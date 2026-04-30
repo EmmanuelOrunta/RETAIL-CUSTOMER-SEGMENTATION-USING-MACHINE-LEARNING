@@ -62,3 +62,4 @@ RFM stands for:
 👉 This helps convert raw transaction data into meaningful customer profiles.
 
 ---
+### 🔹 2. Feature Scaling
