@@ -70,3 +70,4 @@ Without scaling:
 - Large values (e.g., monetary) dominate the model
 
 With scaling:
+- All features are treated fairly  
