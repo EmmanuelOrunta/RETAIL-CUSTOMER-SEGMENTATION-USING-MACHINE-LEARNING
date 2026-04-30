@@ -58,3 +58,5 @@ RFM stands for:
 - **Recency (R)** → How recently a customer made a purchase
 - **Frequency (F)** → How often they purchase
 - **Monetary (M)** → How much money they spend 
+
+👉 This helps convert raw transaction data into meaningful customer profiles.
