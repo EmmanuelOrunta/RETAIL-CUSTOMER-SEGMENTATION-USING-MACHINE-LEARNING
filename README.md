@@ -63,3 +63,6 @@ RFM stands for:
 
 ---
 ### 🔹 2. Feature Scaling
+
+Feature scaling ensures all variables contribute equally to the model.
+
