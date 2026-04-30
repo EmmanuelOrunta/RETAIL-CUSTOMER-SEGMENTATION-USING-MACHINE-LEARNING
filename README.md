@@ -60,3 +60,5 @@ RFM stands for:
 - **Monetary (M)** → How much money they spend 
 
 👉 This helps convert raw transaction data into meaningful customer profiles.
+
+---
