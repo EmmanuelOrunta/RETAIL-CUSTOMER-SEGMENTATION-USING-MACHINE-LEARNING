@@ -77,4 +77,5 @@ With scaling:
 
 This project uses **unsupervised learning**, meaning:
 - There are no predefined labels  
-- The model discovers patterns on its own  
+- The model discovers patterns on its own
+
