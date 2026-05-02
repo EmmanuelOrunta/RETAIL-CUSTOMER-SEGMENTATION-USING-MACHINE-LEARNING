@@ -73,4 +73,4 @@ With scaling:
 - All features are treated fairly
 
 ---
-
+### 🔹 3. Unsupervised Learning
