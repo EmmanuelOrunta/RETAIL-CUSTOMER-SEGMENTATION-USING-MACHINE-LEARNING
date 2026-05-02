@@ -76,3 +76,4 @@ With scaling:
 ### 🔹 3. Unsupervised Learning
 
 This project uses **unsupervised learning**, meaning:
+- There are no predefined labels  
