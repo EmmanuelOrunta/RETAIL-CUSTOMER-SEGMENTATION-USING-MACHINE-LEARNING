@@ -80,3 +80,4 @@ This project uses **unsupervised learning**, meaning:
 - The model discovers patterns on its own
 
 ---
+### 🔹 4. Clustering
