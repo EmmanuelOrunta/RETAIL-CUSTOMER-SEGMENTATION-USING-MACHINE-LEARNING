@@ -88,3 +88,5 @@ Clustering is the process of grouping similar customers together.
 
 ---
 ### 🔹 5. K-Means Algorithm
+
+K-Means is a clustering algorithm that:
