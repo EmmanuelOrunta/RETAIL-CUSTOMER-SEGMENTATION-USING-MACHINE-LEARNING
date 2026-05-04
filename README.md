@@ -87,4 +87,4 @@ Clustering is the process of grouping similar customers together.
 👉 Customers in the same group behave similarly.
 
 ---
-
+### 🔹 5. K-Means Algorithm
