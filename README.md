@@ -104,3 +104,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 👉 It finds the point where adding more clusters no longer significantly improves the model.
 
 ---
+### 1. Data Loading
