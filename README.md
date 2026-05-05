@@ -98,3 +98,4 @@ K-Means is a clustering algorithm that:
 
 ---
 ### 🔹 6. Elbow Method
+The Elbow Method is used to determine the optimal number of clusters.
