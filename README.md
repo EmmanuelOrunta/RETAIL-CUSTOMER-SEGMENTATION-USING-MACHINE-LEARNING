@@ -91,6 +91,4 @@ Clustering is the process of grouping similar customers together.
 
 K-Means is a clustering algorithm that:
 
-1. Chooses a number of clusters (K) 
-2. Assigns customers to the nearest group
-3. Adjusts group centers 
+1. Chooses a number of clusters (K) 2. Assigns customers to the nearest group 3. Adjusts group centers 
