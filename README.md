@@ -97,11 +97,11 @@ K-Means is a clustering algorithm that:
 4. Repeats until stable
 
 ---
-## ⚙️ Project Workflow
 ### 🔹 6. Elbow Method
 The Elbow Method is used to determine the optimal number of clusters.
 
 👉 It finds the point where adding more clusters no longer significantly improves the model.
 
 ---
+## ⚙️ Project Workflow
 ### 1. Data Loading
