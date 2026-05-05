@@ -97,3 +97,4 @@ K-Means is a clustering algorithm that:
 4. Repeats until stable
 
 ---
+### 🔹 6. Elbow Method
