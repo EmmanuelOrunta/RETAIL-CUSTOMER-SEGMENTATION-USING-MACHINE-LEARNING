@@ -101,3 +101,5 @@ K-Means is a clustering algorithm that:
 The Elbow Method is used to determine the optimal number of clusters.
 
 👉 It finds the point where adding more clusters no longer significantly improves the model.
+
+---
