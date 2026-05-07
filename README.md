@@ -113,3 +113,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 - Convert date formats
 
 ### 3. Feature Engineering
+- Create RFM metrics for each customer  
