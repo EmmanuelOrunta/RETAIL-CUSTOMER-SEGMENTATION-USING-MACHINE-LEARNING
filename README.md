@@ -108,4 +108,5 @@ The Elbow Method is used to determine the optimal number of clusters.
 - Load both datasets using pandas  
 
 ### 2. Data Cleaning
-- Remove missing values  
+- Remove missing values
+  
