@@ -109,4 +109,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 
 ### 2. Data Cleaning
 - Remove missing values
-  
+- Remove invalid transactions  
