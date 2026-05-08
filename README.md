@@ -123,3 +123,5 @@ The Elbow Method is used to determine the optimal number of clusters.
 
 ### 6. Cluster Evaluation
 - Use Elbow Method to choose optimal clusters  
+
+### 7. Customer Segmentation
