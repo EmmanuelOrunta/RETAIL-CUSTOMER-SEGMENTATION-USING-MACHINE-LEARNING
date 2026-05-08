@@ -127,4 +127,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 ### 7. Customer Segmentation
 - Assign meaningful labels to clusters
 
-
+### 8. Business Insights
