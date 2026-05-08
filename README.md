@@ -114,3 +114,5 @@ The Elbow Method is used to determine the optimal number of clusters.
 
 ### 3. Feature Engineering
 - Create RFM metrics for each customer  
+
+### 4. Data Scaling
