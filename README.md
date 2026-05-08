@@ -119,3 +119,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 - Normalize features to ensure fairness
 
 ### 5. Model Building
+- Apply K-Means clustering
