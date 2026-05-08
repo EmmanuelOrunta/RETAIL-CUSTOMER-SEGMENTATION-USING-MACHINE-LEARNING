@@ -122,4 +122,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 - Apply K-Means clustering
 
 ### 6. Cluster Evaluation
-
+- Use Elbow Method to choose optimal clusters  
