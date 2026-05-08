@@ -117,3 +117,5 @@ The Elbow Method is used to determine the optimal number of clusters.
 
 ### 4. Data Scaling
 - Normalize features to ensure fairness
+
+### 5. Model Building
