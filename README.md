@@ -129,4 +129,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 
 ### 8. Business Insights
 - Analyse customer groups
-- - Simulate regional insights (Australia)
+- Simulate regional insights (Australia)
