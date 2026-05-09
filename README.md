@@ -128,3 +128,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 - Assign meaningful labels to clusters
 
 ### 8. Business Insights
+- Analyse customer groups  
