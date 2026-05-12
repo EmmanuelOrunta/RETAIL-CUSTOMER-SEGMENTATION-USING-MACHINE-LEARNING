@@ -139,3 +139,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 ## 📈 Example Customer Segments
 | Segment | Description |
 |--------|------------|
+| High Value | Frequent buyers who spend a lot |
