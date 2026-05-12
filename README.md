@@ -141,3 +141,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 |--------|------------|
 | High Value | Frequent buyers who spend a lot |
 | Loyal | Regular customers with consistent purchases |
+| At Risk | Customers who haven’t purchased recently |
