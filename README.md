@@ -154,3 +154,4 @@ The Elbow Method is used to determine the optimal number of clusters.
 - Power BI (for dashboarding)
 
 ---
+## 🌏 Australian Context (Why This Matters)
