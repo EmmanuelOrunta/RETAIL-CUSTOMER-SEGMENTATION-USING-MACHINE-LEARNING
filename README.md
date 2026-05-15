@@ -151,5 +151,6 @@ The Elbow Method is used to determine the optimal number of clusters.
 - NumPy  
 - Matplotlib
 - Scikit-learn (K-Means, Scaling)
-- Power BI (for dashboarding) 
+- Power BI (for dashboarding)
+
 
