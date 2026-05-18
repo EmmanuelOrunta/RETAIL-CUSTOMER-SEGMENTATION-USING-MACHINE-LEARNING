@@ -157,4 +157,5 @@ The Elbow Method is used to determine the optimal number of clusters.
 ## 🌏 Australian Context (Why This Matters)
 
 This project simulates how Australian retailers (e.g., supermarkets and e-commerce businesses) can:
-- Personalise marketing strategies 
+- Personalise marketing strategies
+
