@@ -160,5 +160,7 @@ This project simulates how Australian retailers (e.g., supermarkets and e-commer
 - Personalise marketing strategies
 - Improve customer retention
 - Increase revenue
-- Understand regional behaviour  
+- Understand regional behaviour
+
+
 
