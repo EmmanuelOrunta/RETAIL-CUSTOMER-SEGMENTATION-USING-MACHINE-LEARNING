@@ -166,4 +166,5 @@ This project simulates how Australian retailers (e.g., supermarkets and e-commer
 ## 💡 Business Recommendations
 Based on segmentation:
 
-- 🎯 High Value → Loyalty rewards, exclusive offers  
+- 🎯 High Value → Loyalty rewards, exclusive offers
+
