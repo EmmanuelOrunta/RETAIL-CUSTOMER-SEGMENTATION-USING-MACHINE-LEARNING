@@ -162,5 +162,6 @@ This project simulates how Australian retailers (e.g., supermarkets and e-commer
 - Increase revenue
 - Understand regional behaviour
 
-
 ---
+## 💡 Business Recommendations
+
