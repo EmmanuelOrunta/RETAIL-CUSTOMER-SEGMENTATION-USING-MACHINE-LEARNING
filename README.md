@@ -168,5 +168,6 @@ Based on segmentation:
 
 - 🎯 High Value → Loyalty rewards, exclusive offers
 - 🔁 Loyal → Retention campaigns, upselling
-- ⚠️ At Risk → Discounts, re-engagement emails 
+- ⚠️ At Risk → Discounts, re-engagement emails
+- - 📉 Low Value → Awareness campaigns 
 
