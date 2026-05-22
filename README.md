@@ -167,5 +167,5 @@ This project simulates how Australian retailers (e.g., supermarkets and e-commer
 Based on segmentation:
 
 - 🎯 High Value → Loyalty rewards, exclusive offers
-- - 🔁 Loyal → Retention campaigns, upselling
+- 🔁 Loyal → Retention campaigns, upselling
 
