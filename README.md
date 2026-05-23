@@ -171,4 +171,4 @@ Based on segmentation:
 - ⚠️ At Risk → Discounts, re-engagement emails
 - 📉 Low Value → Awareness campaigns
 
-
+---
