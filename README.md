@@ -177,4 +177,4 @@ The final output file:
 Contains:
 - Customer metrics (RFM)
 - Cluster assignments
-- - Segment labels  
+- Segment labels  
