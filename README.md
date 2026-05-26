@@ -178,4 +178,6 @@ Contains:
 - Customer metrics (RFM)
 - Cluster assignments
 - Segment labels  
-- Simulated region 
+- Simulated region
+
+
