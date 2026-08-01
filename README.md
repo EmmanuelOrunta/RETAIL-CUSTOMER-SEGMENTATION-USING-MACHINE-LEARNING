@@ -188,5 +188,5 @@ This project demonstrates how data and machine learning can be used to:
 - Create actionable business insights
 - Support data-driven decision-making
 
-- It reflects real-world practices used by data analysts and businesses in the retail industry.
+It reflects real-world practices used by data analysts and businesses in the retail industry.
 
