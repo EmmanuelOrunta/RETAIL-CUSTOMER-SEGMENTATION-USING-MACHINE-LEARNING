@@ -185,4 +185,4 @@ Contains:
 This project demonstrates how data and machine learning can be used to:
 
 - Understand customer behaviour
-- - Create actionable business insights
+- Create actionable business insights
