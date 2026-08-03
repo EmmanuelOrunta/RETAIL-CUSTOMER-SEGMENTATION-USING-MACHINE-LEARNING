@@ -191,3 +191,4 @@ This project demonstrates how data and machine learning can be used to:
 It reflects real-world practices used by data analysts and businesses in the retail industry.
 
 ---
+## 👨‍💻 Author
