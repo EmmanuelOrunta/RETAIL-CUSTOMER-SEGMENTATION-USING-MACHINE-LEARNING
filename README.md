@@ -195,4 +195,4 @@ It reflects real-world practices used by data analysts and businesses in the ret
 
 **Emmanuel Orunta** 
 
-Aspiring Data Analyst |
+Aspiring Data Analyst | Machine Learning Enthusiast
